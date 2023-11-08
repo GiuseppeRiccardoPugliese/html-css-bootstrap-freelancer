@@ -1,4 +1,4 @@
-/* Utilities  */
+/* BG color  */
 .ms_bg-softblue {
     background-color: #2596be;
 }
@@ -9,4 +9,34 @@
 
 .ms_bg-green {
     background-color: #1abc9c;
+}
+
+/* Flex basis resize */
+.ms_flex-basis-30 {
+    flex-basis: 30%;
+}
+
+.ms_flex-basis-100 {
+    flex-basis: 100%;
+}
+
+/* Text utilities  */
+.ms_font-weight-600 {
+    font-weight: 600;
+}
+
+/* Linea bianca */
+.ms_white-line {
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+.ms_black-line {
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+/* Rounded Border */
+.ms_rounded-7 {
+    border-radius: .7rem;
 }
