@@ -4,7 +4,7 @@
 }
 
 .ms_bg-darkblue {
-    background-color: #3a546d;
+    background-color: #2c3e50;
 }
 
 .ms_bg-green {
@@ -23,6 +23,14 @@
 /* Text utilities  */
 .ms_font-weight-600 {
     font-weight: 600;
+}
+
+.ms_text-color-green {
+    color: #1bb699;
+}
+
+.ms_text-font-size12 {
+    font-size: 12px;
 }
 
 /* Linea bianca */
