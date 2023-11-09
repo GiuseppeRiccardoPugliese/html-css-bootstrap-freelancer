@@ -1,6 +1,6 @@
 /* BG color  */
 .ms_bg-softblue {
-    background-color: #2596be;
+    background-color: #3a546d;
 }
 
 .ms_bg-darkblue {
@@ -39,4 +39,43 @@
 /* Rounded Border */
 .ms_rounded-7 {
     border-radius: .7rem;
+}
+
+/* NAV HAMBURGER menu fix */
+.navbar-light .navbar-toggler {
+    border-color: white;
+    color: white;
+}
+
+.fa-bars {
+    color: white;
+}
+
+/* White border setup */
+.ms_border-white {
+    border: 1px solid white;
+}
+
+/* Btn color setup */
+.btn-primary {
+    border-color: white;
+}
+
+/* Form setup */
+.form-control {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid black;
+}
+
+.ms_pb-huge {
+    padding-bottom: 6rem;
+}
+
+/* icon setup */
+.ms_icon-setup {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
 }
